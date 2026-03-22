@@ -39,3 +39,11 @@ html {
     backdrop-filter: blur(5.6px);
     -webkit-backdrop-filter: blur(6.9px);
 }
+
+.page-content {
+    position: relative;
+    z-index: 1;
+    color: white;
+    padding: 1.5rem;
+    height: 100vh;
+}

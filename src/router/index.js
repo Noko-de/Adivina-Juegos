@@ -16,7 +16,7 @@ const router = createRouter({
       component: HomeView
     },
     {
-      path: '/juegos:id',
+      path: '/juegos',
       name: 'juego-del-dia',
       component: JuegosView
     },
