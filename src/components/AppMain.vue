@@ -14,6 +14,7 @@
                         <ButtonPurple 
                         class="mt-auto w-50 align-self-center mb-3 fs-3"
                         text="Jugar como invitado!"
+                        to="/juegos"
                         />
                     </div>
                     <Login />

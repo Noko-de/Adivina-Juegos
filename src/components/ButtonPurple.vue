@@ -1,5 +1,5 @@
     <template>
-        <button class="gothic16 rounded-4 btn btn-dark  color-purple">
+        <button class="btn gothic16 rounded-4 btn btn-dark  color-purple">
             {{text}}
         </button>
     </template>
